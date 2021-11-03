@@ -1,1 +1,1 @@
-# products-sequelize,SQL or Structured Query Language is used to communicate with Relational Databases postgres.
+# products-sequelize,using sequalize  used to communicate with Relational Databases postgres sql.
